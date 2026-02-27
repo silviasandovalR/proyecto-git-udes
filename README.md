@@ -7,3 +7,6 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 - [Silvia Juliana Sandoval Rojas]
 
 -Prueba commit en el remoto 
+
+## Estado del Proyecto 
+En construccion - Taller de Git UDES 2026 
