@@ -9,4 +9,8 @@ de la asignatura Herramientas de Ingeniería de Software - 2026A.
 -Prueba commit en el remoto 
 
 ## Estado del Proyecto 
-En construccion - Taller de Git UDES 2026 
+Proyecto en desarrollo activo - Taller de Git UDES 2026 - Version 1.0 
+git add README.md 
+git commit -m "merge: resuelve conflicto entre local y remoto en README" 
+git push origin main 
+git log --oneline --graph --all 
